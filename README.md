@@ -62,7 +62,7 @@
 | Repository | Description |
 | --- | --- |
 | [Flyers.ar](https://flyers.ar) | Create Real Estate Flyers in seconds. |
-| [FlyerGen](https://github.com/alexisklisch/vecty) | Automated flyer generator leveraging AWS Lambdas and image processing. |
+| [Vecty](https://github.com/alexisklisch/vecty) | Use XML with variables and more! |
 
 ---
 
